@@ -115,7 +115,8 @@ I'm a passionate Software Engineer with a Master's degree in Information Systems
 
 ✨ *Always exploring new tools and frameworks to build smarter, faster, and scalable solutions.*
 ---
-Know about my experiences [https://drive.google.com/file/d/1ITf6QLrAyeBXaIkdbVCIjokSICW13IYK/view?usp=drive_link](https://drive.google.com/file/d/1ITf6QLrAyeBXaIkdbVCIjokSICW13IYK/view?usp=drive_link)
+Know about my experiences [https://drive.google.com/file/d/19ySBUEczhjqXaXL-H2x4GGAkazkGdPcI/view?usp=drive_link] 
+(https://drive.google.com/file/d/19ySBUEczhjqXaXL-H2x4GGAkazkGdPcI/view?usp=drive_link)
 
 ### 📂 Projects
 
