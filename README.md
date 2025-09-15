@@ -2,7 +2,7 @@
 📫 How to reach me mailto:-  jahnaviamilineni28@gmail.com⚡
 <div>
 <h2>🚀👩‍💻 About Me</h2>
-I'm a passionate Software Engineer with a Master's degree in Information Systems with focus Computer and Information sciences and expertise in backend and front-end development, cloud computing, and data analytics.I can build scalable and maintainable applications with 3+ years of experience in Software Engineer, IT analyst, and cloud Engineer based systems.I’ve build, SDLC, review, maintained, developed and deployed scalable health care program APPS and financial systems APPS supported for HSBC, CIBC, and UOB.
+I'm a passionate Software Engineer with a Master's degree in Information Systems with focus Computer and Information sciences and expertise in software development, cloud Engineer, and data analytics. with 3+ years of experience in object-oriented programming, AI/ML, and cloud-native applications. Skilled in Python, Java and C++ with hands-on expertise in developing enterprise application with spring boot, machine learning models using TensorFlow, PyTorch, and scikit-learn. Proficient in building scalable microservices, REST APIs, and data pipelines on Microsoft Azure and AWS (EC2, S3, Lambda), leveraging Docker and Kubernetes for deployment. Experienced across Linux (RHEL), Windows. Supported and maintained Applications for HSBC and CIBC financial banks.
 
 </div>
 <h3 align="center">Software Engineer | Full Stack Developer | IT software Analyst | Cloud & AI Enthusiast</h3>
