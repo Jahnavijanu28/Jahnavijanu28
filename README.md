@@ -5,7 +5,7 @@
 I'm a passionate Software Engineer with a Master's degree in Information Systems with focus Computer and Information sciences and expertise in software development, cloud Engineer, and data analytics. with 3+ years of experience in object-oriented programming, AI/ML, and cloud-native applications. Skilled in Python, Java and C++ with hands-on expertise in developing enterprise application with spring boot, machine learning models using TensorFlow, PyTorch, and scikit-learn. Proficient in building scalable microservices, REST APIs, and data pipelines on Microsoft Azure and AWS (EC2, S3, Lambda), leveraging Docker and Kubernetes for deployment. Experienced across Linux (RHEL), Windows. Supported and maintained Applications for HSBC and CIBC financial banks.
 
 </div>
-<h3 align="center">Software Engineer | Full Stack Developer | AL/ML Engineer | Cloud & AI Enthusiast</h3>
+<h3 align="center">Software Engineer | Full Stack Developer | AI/ML Engineer | Cloud & AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jahnavi-amilineni-1681341b3/" target="_blank">
