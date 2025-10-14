@@ -115,8 +115,6 @@ Software Engineer with over 4 years of experience designing and developing scala
 
 ✨ *Always exploring new tools and frameworks to build smarter, faster, and scalable solutions.*
 ---
-Know about my experiences [https://drive.google.com/file/d/19ySBUEczhjqXaXL-H2x4GGAkazkGdPcI/view?usp=drive_link] 
-(https://drive.google.com/file/d/19ySBUEczhjqXaXL-H2x4GGAkazkGdPcI/view?usp=drive_link)
 
 ### 📂 Projects
 
