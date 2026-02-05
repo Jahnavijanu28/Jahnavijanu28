@@ -135,13 +135,10 @@ https://jahnavijanu28.github.io/Researchproject/ | http://jahnavi.com/
 - Implemented using Python, OpenCV, and Neural Networks
 - Explored randomized block vs. Latin square design
 - [📄 Read Publication](https://pubs.aip.org/aip/acp/article-abstract/2871/1/020006/)
-######## 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahnavijanu28&layout=compact&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jahnavijanu28&show_icons=true&theme=tokyonight"/>
-</p>
-
-
+########
+💡 Fun Fact About me!
+<p>Learning is a lifelong journey and hackathons are the best crash courses in real-world tech. I spend my free time expanding my knowledge and learning new technologies to discover what clicks most with me.</p>
+🖤 “Design like a user. Code like a builder. Learn like a beginner.”
 ### 📫 How to reach me
 
 - ✉️ Email: jahnaviamilineni28@gmail.com  
