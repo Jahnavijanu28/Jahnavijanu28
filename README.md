@@ -136,9 +136,11 @@ https://jahnavijanu28.github.io/Researchproject/ | http://jahnavi.com/
 - Explored randomized block vs. Latin square design
 - [📄 Read Publication](https://pubs.aip.org/aip/acp/article-abstract/2871/1/020006/)
 ########
-💡 Fun Fact About me!
+<div>
+<h4>💡Fun Fact About me!</h4>
 <p>Learning is a lifelong journey and hackathons are the best crash courses in real-world tech. I spend my free time expanding my knowledge and learning new technologies to discover what clicks most with me.</p>
 🖤 “Design like a user. Code like a builder. Learn like a beginner.”
+</div>
 ### 📫 How to reach me
 
 - ✉️ Email: jahnaviamilineni28@gmail.com  
